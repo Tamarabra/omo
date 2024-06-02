@@ -1,0 +1,43 @@
+const products = [{
+    id: 0,
+    name: 'Iphone 15 Po Max',
+    price: 200,
+    instock: 5,
+    imgSrc: './images/iphone.jpg',
+},
+{
+    id: 1,
+    name: 'Ipad Pro',
+    price: 100,
+    instock: 5,
+    imgSrc: './images/ipad.jpg',
+},
+{
+    id: 2,
+    name: 'Apple Pencil',
+    price: 600,
+    instock: 5,
+    imgSrc: './images/pencil.jpg',
+},
+{
+    id: 3,
+    name: 'Macbook Pro',
+    price: 300,
+    instock: 5,
+    imgSrc: './images/macbook.jpg',
+},
+{
+    id: 4,
+    name: 'product 5',
+    price: 500,
+    instock: 5,
+    imgSrc: './images/iwatch.jpg',
+},
+{
+    id: 5,
+    name: 'product 6',
+    price: 400,
+    instock: 5,
+    imgSrc: './images/earpods.jpg',
+},
+]
